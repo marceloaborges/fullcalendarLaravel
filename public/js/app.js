@@ -17010,7 +17010,7 @@ var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
   "class": "card"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "card-header"
-}, "Example Component"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+}, "Example Component Edited"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "card-body"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", null, " Lorem ipsum dolor sit, amet, consectetur adipisicing elit. Totam, temporibus facere quis. Et excepturi molestiae quos quo impedit exercitationem modi nulla quidem, reprehenderit aut, velit molestias ipsam dolorem hic maxime. ")])])], -1 /* HOISTED */);
 var _hoisted_3 = [_hoisted_2];

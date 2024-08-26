@@ -151,7 +151,7 @@
                 },
                 timeZone: 'UTC',
                 locale: 'pt-br',
-                initialView: 'timeGridWeek',
+                initialView: 'dayGridMonth',
                 slotMinTime: '7:00:00',
                 slotMaxTime: '20:00:00',
                 navLinks:true,

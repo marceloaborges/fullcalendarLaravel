@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-12 col-lg-6">
             <div class="card">
-                <div class="card-header">Example Component</div>
+                <div class="card-header">Example Component Edited</div>
 
                 <div class="card-body">
                     <p>
